@@ -1,4 +1,4 @@
-# CyTech KLEOS2.0 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
+# CyTech KLEOS2.0 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> 
 ## AI Powered Log Analysis and Anomaly Detections 
 ### Overview
 This project is part of the Kleos 2.0 hackathon and aims to develop an AI-driven system for real-time log monitoring and anomaly detection. With the exponential growth of digital assets and interconnected systems, the volume and complexity of log data have increased significantly. Traditional methods of manual log analysis and rule-based anomaly detection are no longer sufficient to identify sophisticated threats and abnormal behaviors effectively. This project leverages advanced artificial intelligence (AI) techniques to address these challenges, enhancing cybersecurity measures and ensuring robust data protection.
